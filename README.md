@@ -52,7 +52,7 @@ oddOnesOut([1,1,1,1,1,1]) => []
 
 ### `stringSpace`
 
-Write a function `stringSpace` that takes in a string and adds a space after each character
+Write a function `stringSpace` that takes in a string and adds a space between each character
 and returns the string
 
 ```
