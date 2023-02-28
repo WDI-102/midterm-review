@@ -22,8 +22,8 @@ crossArray(array1, array2) => [5, 6, 7, 2, 14, 22, 5, 1]
 ### `foundCat`
 
 Write a function `foundCat` that takes in an array of strings.
-If the word 'cat' is in the array, return true.  or else return false
-you can assume all strings will be lower case.
+If the word 'cat' is in the array, return true.  or else return false.
+You can assume all strings will be lower case.
 
 
 ```
@@ -39,7 +39,7 @@ foundCat(noCatArray) => false
 ### `oddOnesOut`
 
 Write a function `oddOnesOut` that takes in an array of numbers.
-Return an array with the same numbers, but all 1's removed.
+Return an array with the same numbers in the same order, but all 1's removed.  
 
 
 ```
