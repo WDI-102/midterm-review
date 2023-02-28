@@ -130,7 +130,10 @@ If the damage result is 0 or less, return "NO DAMAGE!"
 ```
 Example:
 
-damageCalculator(character1, character2) => 50 //Cloud attacks Sephiroth
-damageCalculator(character2, character1) => 60 //Sephiroth attacks Cloud
+//Cloud attacks Sephiroth
+damageCalculator(character1, character2) => 50 
+
+//Sephiroth attacks Cloud
+damageCalculator(character2, character1) => 60 
 
 ```
