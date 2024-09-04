@@ -58,9 +58,9 @@ and returns the string
 ```
 Examples:
 
-stringSpace('string') => 's t r i n g'
-stringSpace('wow') => 'w o w'
-stringSpace('hello world') => 'h e l l o   w o r l d'
+stringSpace('string') => 's t r i n g '
+stringSpace('wow') => 'w o w '
+stringSpace('hello world') => 'h e l l o   w o r l d '
 ```
 
 ### `stringCompareCounter`
