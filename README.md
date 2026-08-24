@@ -89,7 +89,7 @@ contains at least 2 of the same item.
 Examples:
 
 duplicate(['hi', 'wow, 'hey', 'hi']) => true
-duplicate(['one', 'two' 'three']) => false
+duplicate(['one', 'two', 'three']) => false
 duplicate([1,7,32,1,10,2,11]) => true
 
 ```
